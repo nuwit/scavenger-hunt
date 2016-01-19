@@ -20,3 +20,5 @@ Set Up
   ```sh
   cd scavenger-hunt
   ```
+  
+4. Start hunting!
