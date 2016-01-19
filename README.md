@@ -18,5 +18,5 @@ Set Up
 3. cd into the project
 
   ```sh
-  git clone https://github.com/nuwit/scavenger-hunt.git
+  cd scavenger-hunt
   ```
