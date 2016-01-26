@@ -24,7 +24,7 @@ Set Up
 
 Your quest to the holy grail:
 ===
-1. Create your own branch using the terminal (Hint: 'git checkout -b <yourbranchname>'
+1. Create your own branch using the terminal (Hint: 'git checkout -b <yourbranchname>')
 2. Remove the removeMe.txt file from the main directory using the 'rm' command in your terminal
 2. Commit this change with git in the terminal with the commit message "First commit"
 3. Open the index.html file in your browser
