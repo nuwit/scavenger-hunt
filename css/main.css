@@ -825,7 +825,7 @@ pre.line-numbers > code {
    ========================================================================== */
 
 #subscribe {
-    background: #009897;
+    background: purple;    /* change it back to #009897 */
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -980,6 +980,9 @@ ul.dates h3 a:hover {
 ul.dates p {
     line-height: 24px;
 }
+ul.dates a {
+    font-weight: 500;
+}
 ul.dates .event-date {
     font-weight: 700;
     color: #666;
@@ -996,7 +999,7 @@ ul.dates .date {
     left: 0;
     top: 1.3em;
     background-color: #009897;
-    height: 3.5em;
+    height: 7.5em; /* change to 3.5em */
     text-align: center;
     color: #fff;
     line-height: 1em;
@@ -1051,12 +1054,11 @@ ul.dates li:first-child .date {
    ========================================================================== */
 
 #gallery {
-    height: 350px;
-    /* just until pictures get put up */
+
 }
 #gallery .container {
     padding: 0 0 50px;
-    width: 80%;
+    width: 130%; /* change back to 80% */
 }
 #gallery .col-lg-3, #gallery .col-md-3, #gallery .col-sm-3 {
     margin: 10px auto;

@@ -1,0 +1,3 @@
+Remove me!
+
+Hint: use the 'rm' command in your command line.
