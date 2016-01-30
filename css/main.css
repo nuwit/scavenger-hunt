@@ -999,7 +999,7 @@ ul.dates .date {
     left: 0;
     top: 1.3em;
     background-color: #009897;
-    height: 7.5em; /* change to 3.5em */
+    height: 3.5em; /* change to 3.5em */
     text-align: center;
     color: #fff;
     line-height: 1em;
