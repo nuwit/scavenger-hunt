@@ -41,5 +41,5 @@ Your quest to the holy grail:
 13. cd into the secret folder
 14. Find the secret file
 15. Find out what the final commit message will be by reading what's in the secret file (Use the 'more' command)
-16. When you are satisfied with your changes, commit and push to your branch on github. Make sure you add the new blog post file to the files git is tracking.
+16. When you are satisfied with your changes, commit and push to your branch on github. Make sure you add the new blog post file to the files git is tracking. (git push origin YourBranchName)
 17. Go the github repo on your browser and create a **pull request** to merge your branch with the master branch.
