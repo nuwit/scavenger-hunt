@@ -825,7 +825,7 @@ pre.line-numbers > code {
    ========================================================================== */
 
 #subscribe {
-    background: purple;    /* change it back to #009897 */
+    background: #009897;    /* change it back to #009897 */
     padding-top: 20px;
     padding-bottom: 20px;
 }
